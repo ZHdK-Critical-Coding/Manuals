@@ -3,7 +3,7 @@
 ## ⚙️ Installation
 - **`git --version**
   → Falls installiert, erscheint im Terminal die Version.
-  → Sonst installieren via (https://git-scm.com/downloads/mac)[https://git-scm.com/downloads/mac]
+  → Sonst installieren via [https://git-scm.com/downloads/mac](https://git-scm.com/downloads/mac)
   
 ## ⚙️ Einrichtung
 - **`git config --global user.name "Dein Name"`**  
