@@ -40,7 +40,7 @@
   - `rm Verzeichnis/*.txt -r` → Löscht **alle** Dateien im Ordner Verzeichnis, die auf `.txt` enden und in dessen Unterordnern (`-r`). _Sehr Gefährlich :)_
   - `rm Verzeichnis -rf` → Löscht **alle** Dateien im Ordner Verzeichnis in dessen Unterordnern davon und danach die Unterordner und Verzeichnis selbst (`-rf`). _Sehr sehr Gefährlich :)_
 
-## Order
+## Ordner
 - **`mkdir [input]`**  
   → Erstellt (**m**a**k**e **dir**ectory) ein Verzeichnis
   Beispiele:  
