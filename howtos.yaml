@@ -1,0 +1,21 @@
+# How-To's on https://zhdk-critical-coding.github.io (menu "How-To's")
+#
+# Every entry is one page and one entry in the How-To's menu, in this order.
+#   folder:          folder of the manual in this repository
+#   title:           menu entry and page title
+#   title_de:        optional, German title (default: title)
+#   readme:          optional, default: README.md in the folder.
+#                    Without a README the page lists the files of the folder.
+#
+# The page is rebuilt nightly, or right away with "Run workflow" in
+# ZHdK-Critical-Coding.github.io → Actions → Build and deploy.
+
+howtos:
+  - folder: Terminal
+    title: Terminal
+  - folder: Git
+    title: Git
+  - folder: P5.js
+    title: JavaScript & p5.js
+  - folder: BasilJS
+    title: basil.js
