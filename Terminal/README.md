@@ -6,6 +6,29 @@ Die wichtigsten Befehle für den Einstieg ins Terminal. Sie funktionieren unter 
 
 ---
 
+## Terminal-Programme
+Jedes Betriebssystem bringt ein Terminal mit (macOS: *Terminal.app* unter Programme → Dienstprogramme). Wer mehr Komfort möchte, kann ein anderes Terminal-Programm installieren. Die Befehle in diesem Cheatsheet funktionieren in allen gleich. Alle hier aufgeführten Programme sind kostenlos.
+
+- **[iTerm2](https://iterm2.com/downloads.html)** (macOS)  
+  → Der Klassiker unter den Mac-Terminals: geteilte Fenster, Suche, Profile.  
+- **[cmux](https://www.cmux.dev/docs)** (macOS)  
+  → Basiert auf Ghostty, mit vertikalen Tabs und Benachrichtigungen – gemacht für die Arbeit mit KI-Coding-Agenten.  
+  Installation auch über Homebrew: `brew tap manaflow-ai/cmux` und danach `brew install --cask cmux`  
+- **[Ghostty](https://ghostty.org/download)** (macOS, Linux)  
+  → Schnell, schlicht und mit guten Voreinstellungen.  
+- **[WezTerm](https://wezterm.org/installation.html)** (macOS, Linux, Windows)  
+  → Läuft auf allen Systemen, mit Tabs und geteilten Fenstern.  
+- **[kitty](https://sw.kovidgoyal.net/kitty/binary/)** (macOS, Linux)  
+  → Schnelles Terminal mit vielen Erweiterungen.  
+- **[Alacritty](https://alacritty.org/)** (macOS, Linux, Windows)  
+  → Minimalistisch und sehr schnell, ohne Tabs.  
+- **[Windows Terminal](https://aka.ms/terminal)** (Windows)  
+  → Das moderne Terminal von Microsoft, für PowerShell, WSL und Git Bash.  
+- **[Git for Windows](https://gitforwindows.org/)** (Windows)  
+  → Enthält Git Bash, mit dem die Befehle aus diesem Cheatsheet auch unter Windows laufen.  
+
+---
+
 ## Navigation
 - **`pwd`**  
   → Zeigt den Pfad des aktuellen Ordners (**p**rint **w**orking **d**irectory).
