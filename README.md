@@ -1,10 +1,8 @@
 # Manuals
-Cheat Sheets and Manals
 
-## P5.js Ressourcen
+Cheatsheets und Selbstlern-Material.
 
-- **Reference** – Die offizielle Funktionsreferenz: <https://p5js.org/reference/>
-- **Cheat Sheet** – Übersichtliche Kurzreferenz für Künstler:innen: <https://livinbits.github.io/p5js-cheatsheet-forartists/>
-- **Coding Train** von Dan Shiffman – Video-Tutorials zum Programmieren mit p5.js: <https://thecodingtrain.com/tracks/code-programming-with-p5-js>
-- **The Nature of Code** von Dan Shiffman – Simulation natürlicher Systeme mit Code: <https://natureofcode.com/>
-- **Awesome Creative Coding** – Eine lange Liste mit Ressourcen zum Creative Coding: <https://github.com/terkelg/awesome-creative-coding>
+- [JavaScript & p5.js](P5.js/README.md) – Workbook, Befehlsreferenz, Beispiele und Ressourcen
+- [Terminal](Terminal/README.md) – die wichtigsten Befehle für den Einstieg
+- [Git](Git/README.md) – Git Basics
+- [basil.js](BasilJS/) – Cheatsheets und InDesign-Skripting-Kurzreferenz (PDF)
