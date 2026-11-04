@@ -1,6 +1,6 @@
 # JavaScript & p5.js
 
-Selbstlern-Material zu p5.js – Ablauf, Befehlsreferenz und lauffähige Beispiele.
+Material zu p5.js – Ablauf, Befehlsreferenz und lauffähige Beispiele.
 
 ## Ressourcen
 
@@ -39,7 +39,7 @@ p5.js-Bibliothek wird vom CDN geladen – einfach die `index.html` im Browser
 
 ---
 
-## Ablauf: Basics (Selbstlern-Workbook)
+## Ablauf: Basics
 
 ### Lektion 1: Setup und Draw
 - Ziel: Verstehen, was `setup()` und `draw()` tun
@@ -68,7 +68,7 @@ p5.js-Bibliothek wird vom CDN geladen – einfach die `index.html` im Browser
 
 ---
 
-## Ablauf: Arrays (Selbstlern-Workbook)
+## Ablauf: Arrays
 
 ### Lektion 1: Array-Grundlagen
 - Ziel: Verstehen, was ein Array ist
@@ -92,7 +92,7 @@ p5.js-Bibliothek wird vom CDN geladen – einfach die `index.html` im Browser
 
 ---
 
-## Ablauf: Objekte & Klassen (Selbstlern-Workbook)
+## Ablauf: Objekte & Klassen
 
 ### Lektion 1: Einführung in Objekte
 - Ziel: Verstehen, was Objekte sind
